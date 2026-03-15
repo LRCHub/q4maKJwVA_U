@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "インビテーション！",
+  "base_track": "インビテーション！（feat. 初音ミク）",
   "base_artist": "加賀(ネギシャワーP)、初音ミク",
-  "createdAt": "2026-03-15T09:27:24.956448Z",
+  "createdAt": "2026-03-15T09:27:49.426703Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "インビテーション!",
-      "artist": "加賀(ネギシャワーP) feat. 初音ミク",
+      "title": "インビテーション! (feat. 初音ミク)",
+      "artist": "加賀(ネギシャワーP)",
       "has_synced": false,
-      "path": "select/pl_01_インビテーション!_加賀(ネギシャワーP)_feat._初音ミク.txt"
+      "path": "select/pl_01_インビテーション!_(feat._初音ミク)_加賀(ネギシャワーP).txt"
     }
   ]
 }
